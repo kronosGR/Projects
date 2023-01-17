@@ -1,6 +1,6 @@
 # Projects - KronosGR
 
-[Front-End](#front-end) | [Kotlin](#kotlin)
+[Front-End](#front-end) | [Kotlin](#kotlin) | [Android with Java](#android-with-java)
 
 ## Front-End
 
@@ -61,6 +61,8 @@
   - Javascript
   - Wordpress
 
+[Top](#projects---kronosgr)
+
 ## Kotlin
 
 - **Words Virtuoso**(5/6) - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso)
@@ -71,3 +73,18 @@
 - **Coffee Machine** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CoffeeMachine)
 - **Zookeeper** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-Zookeeper)
 - **Simple Chat Bot** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-SimpleChattyBot)
+
+[Top](#projects---kronosgr)
+
+## Android with Java
+
+- **Ship Engine Hour Log** - [Source Code](https://github.com/kronosGR/Java-ShipEngineHourLog)
+  A application made for a captain to log the ship engine hours
+
+- **Wind Converter** - [Source Code](https://github.com/kronosGR/Java-WindConverter)
+  Converting wind speed between m/s, km/h, mph and beaufort scale
+
+- **Log me** - [Source Code](https://github.com/kronosGR/Java-Logme)
+  Log every event happens around you. You can add text, image and audio
+
+[Top](#projects---kronosgr)
