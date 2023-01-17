@@ -1,5 +1,7 @@
 # Projects - KronosGR
 
+[Front-End](#front-end) | [Kotlin](#kotlin)
+
 ## Front-End
 
 - **Holidaze** - [Source Code](https://github.com/kronosGR/ca-portfolio-react)
