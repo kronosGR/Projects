@@ -58,3 +58,14 @@
   - CSS
   - Javascript
   - Wordpress
+
+## Kotlin
+
+- **Words Virtuoso**(5/6) - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso)
+- **Number Base Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_NumberBaseConverter)
+- **Unit Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_UnitConverter)
+- **Cinema Room Manager** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CinemaRoomManager)
+- **Simple Tic-Tac-Toe** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_SimpleTic-Tac-Toe)
+- **Coffee Machine** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CoffeeMachine)
+- **Zookeeper** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-Zookeeper)
+- **Simple Chat Bot** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-SimpleChattyBot)
