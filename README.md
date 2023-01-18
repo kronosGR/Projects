@@ -1,6 +1,6 @@
 # Projects - KronosGR
 
-[Front-End](#front-end) | [Kotlin](#kotlin) | [Android with Java](#android-with-java) | [Java](#java)
+[Front-End](#front-end) | [Kotlin](#kotlin) | [Android with Java](#android-with-java) | [Java](#java) | [C++](#c)
 
 ## Front-End
 
@@ -95,6 +95,23 @@
 - **Coffee Machine** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CoffeeMachine)
 - **Zookeeper** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-Zookeeper)
 - **Simple Chat Bot** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-SimpleChattyBot)
+
+[Top](#projects---kronosgr)
+
+## C++
+
+- **Car Engine** - [Source Code](https://github.com/kronosGR/CPP-Car-engine)
+- **Dog Factory** - [Source Code](https://github.com/kronosGR/CPP-DogFactory)
+- **Music Database** - [Source Code](https://github.com/kronosGR/CPP-MusicDB)
+- **Simple Play List Parser** - [Source Code](https://github.com/kronosGR/CPP-PlaylistParser)
+- **Tic-Tac-Toe** - [Source Code](https://github.com/kronosGR/CPP-tictactoe)
+
+**From Udacity Nano Degree** - Part projects
+
+- **Capstone Snake Game** - [Source Code](https://github.com/kronosGR/CPP-Capstone-Snake_game)
+- **Memory Management Chatbot** - [Source Code](https://github.com/kronosGR/CPP-Memory-Management-Chatbot)
+- **Program a Concurrent Traffic Simulation** - [Source Code](https://github.com/kronosGR/CPP-Concurrent-Traffic-Simulation)
+- **System-Monitor** - [Source Code](https://github.com/kronosGR/CPP-SystemMonitor-Linux)
 
 [Top](#projects---kronosgr)
 
