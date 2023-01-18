@@ -2,7 +2,7 @@
 
 _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
-[Front-End](#front-end) | [Kotlin](#kotlin) | [Android with Java](#android-with-java) | [Java](#java) | [C++](#c)
+[Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
 
 ## Front-End
 
