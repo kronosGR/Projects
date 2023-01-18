@@ -1,6 +1,6 @@
 # Projects - KronosGR
 
-[Front-End](#front-end) | [Kotlin](#kotlin) | [Android with Java](#android-with-java)
+[Front-End](#front-end) | [Kotlin](#kotlin) | [Android with Java](#android-with-java) | [Java](#java)
 
 ## Front-End
 
@@ -63,6 +63,28 @@
 
 [Top](#projects---kronosgr)
 
+## Java
+
+- **Battleship**(4/5) - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-Battleship)
+- **Contacts** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-Contacts)
+- **Readability Score** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-ReadabilityScore)
+- **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers)
+- **Car Sharing**(3/4) - _HARD_ - [SourceCode](https://github.com/kronosGR/JAVA-CarSharing)
+- **Coffee Machine** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_CoffeeMachine)
+- **File Type Analyzer**(1/5) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-FileTypeAnalyzer)
+- **JSON Database** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-JSONdatabase)
+- **JSON-XML converter**(2/6) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_JSON-XMLconverter)
+- **Cinema Room Manager** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_CinemaRoomManager)
+- **Encryption-Decryption** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-Encryption-Decryption)
+- **Number Base Converter** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-NumberBaseConverter)
+- **Simple Tic-Tac-Toe** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_SimpleTic-Tac-Toe)
+- **Tic-Tac-Toe with AI** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_Tic-Tac-ToeWithAI)
+- **SQLite Viewer** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-SQLiteViewer)
+- **Zookeeper** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java-Zookeeper)
+- **Simple Chatty Bot** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java_SimpleChattyBot)
+
+[Top](#projects---kronosgr)
+
 ## Kotlin
 
 - **Words Virtuoso**(5/6) - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso)
@@ -88,3 +110,6 @@
   Log every event happens around you. You can add text, image and audio
 
 [Top](#projects---kronosgr)
+
+_\*(current stage/Total Stages)_
+_\*\*Difficulty(Challenging | Hard | Medium | Easy)_
