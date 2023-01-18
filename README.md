@@ -1,5 +1,7 @@
 # Projects - KronosGR
 
+_LEARNING: JAVA and Back-End with Node.js and Spring Boot_
+
 [Front-End](#front-end) | [Kotlin](#kotlin) | [Android with Java](#android-with-java) | [Java](#java) | [C++](#c)
 
 ## Front-End
