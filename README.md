@@ -93,24 +93,31 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
   _Master loops and functions, learn about numeric data types, and explore different numeral systems including binary — one of the basic concepts in programming._
 - **Tic-Tac-Toe with AI** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_Tic-Tac-ToeWithAI/tree/master/Tic-Tac-Toe%20with%20AI/task/src/tictactoe)  
   _Get to know a lot about planning and developing a complex program from scratch, using classes and methods, handling errors, and processing user input. Learn to use OOP (Object-Oriented Programming) in the process._
-- **SQLite Viewer** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-SQLiteViewer)
+- **SQLite Viewer** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-SQLiteViewer/tree/master/SQLite%20Viewer/task/src/viewer)  
+  _Create a SWING application and connect an SQLite database to extract the data into a JTable._
 - **Simple Tic-Tac-Toe** - _Easy_ - [SourceCode](https://github.com/kronosGR/Java_SimpleTic-Tac-Toe/tree/master/Simple%20Tic-Tac-Toe/task/src/tictactoe)  
   _Get to know a lot about planning and developing a complex program from scratch, using methods, nested lists, list comprehension, handling errors, and processing user input._
-- **Zookeeper** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java-Zookeeper)
-- **Simple Chatty Bot** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java_SimpleChattyBot)
+- **Zookeeper** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java-Zookeeper/tree/master/Zookeeper/task/src)  
+  _understand some syntax basics and learn how to work with variables, data storage types such as arrays, and while loops._
+- **Simple Chatty Bot** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java_SimpleChattyBot/tree/master/Simple%20Chatty%20Bot/task/src/bot)  
+  _know the basic syntax of Java and write a simple program using variables, conditions, loops, and methods._
 
 [Top](#projects---kronosgr)
 
 ## Kotlin
 
 - **Words Virtuoso**(5/6) - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso)
-- **Number Base Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_NumberBaseConverter)
+- **Number Base Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_NumberBaseConverter)  
+  _Master loops and functions, learn about numeric data types, and explore different numeral systems including binary — one of the basic concepts in programming._
 - **Unit Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_UnitConverter)
 - **Cinema Room Manager** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CinemaRoomManager)
-- **Simple Tic-Tac-Toe** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_SimpleTic-Tac-Toe)
+- **Simple Tic-Tac-Toe** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_SimpleTic-Tac-Toe)  
+  _Get to know a lot about planning and developing a complex program from scratch, using methods, nested lists, list comprehension, handling errors, and processing user input._
 - **Coffee Machine** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CoffeeMachine)
-- **Zookeeper** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-Zookeeper)
-- **Simple Chat Bot** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-SimpleChattyBot)
+- **Zookeeper** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-Zookeeper)  
+  _understand some syntax basics and learn how to work with variables, data storage types such as arrays, and while loops._
+- **Simple Chat Bot** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-SimpleChattyBot)  
+  _know the basic syntax of Kotlin and write a simple program using variables, conditions, loops, and functions._
 
 [Top](#projects---kronosgr)
 
