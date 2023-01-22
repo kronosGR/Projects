@@ -68,14 +68,15 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 ## Java
 
 - **Battleship**(4/5) - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-Battleship/tree/master/Battleship/task/src/battleship)  
-  Understand the process of developing such a complex program as a game and learn about processing user input and handling errors..
-- **Contacts** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-Contacts)
+  _Understand the process of developing such a complex program as a game and learn about processing user input and handling errors.._
+- **Contacts** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-Contacts/tree/master/Contacts/task/src/contacts)  
+  _Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism. Inheritance will allow you to write code that can perform the same process but for different objects. Polymorphism helps to initiate different processes for different objects by using the same method. Also learn to prevent other users of your code to modify the variables using encapsulation._
 - **Readability Score** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-ReadabilityScore)
 - **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers)
 - **Car Sharing** - _HARD_ - [SourceCode](https://github.com/kronosGR/JAVA-CarSharing)
 - **Coffee Machine** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_CoffeeMachine)
 - **File Type Analyzer**(4/5) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-FileTypeAnalyzer/tree/master/File%20Type%20Analyzer/task/src/analyzer)  
-  Figure out multithreading and learn to work with Knuth-Morris-Pratt algorithm, a must-know for every developer. Consider Rabin-Karp algorithm the icing on the cake.
+  _Figure out multithreading and learn to work with Knuth-Morris-Pratt algorithm, a must-know for every developer. Consider Rabin-Karp algorithm the icing on the cake._
 - **JSON Database** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-JSONdatabase)
 - **JSON-XML converter**(2/6) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_JSON-XMLconverter)
 - **Cinema Room Manager** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_CinemaRoomManager)
