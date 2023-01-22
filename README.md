@@ -73,7 +73,7 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
   _Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism. Inheritance will allow you to write code that can perform the same process but for different objects. Polymorphism helps to initiate different processes for different objects by using the same method. Also learn to prevent other users of your code to modify the variables using encapsulation._
 - **Readability Score** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-ReadabilityScore/tree/master/Readability%20Score/task/src/readability)  
    _Learn to call programs from the command-line and get more experience with using regexes and Math class._
-- **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers/tree/master/Amazing%20Numbers/task/src/numbers)
+- **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers/tree/master/Amazing%20Numbers/task/src/numbers)  
   _The project covers basic operations on integers, as well as with collections. Make a program that indicates the properties of the numbers taken from the input._
 - **Car Sharing** - _HARD_ - [SourceCode](https://github.com/kronosGR/JAVA-CarSharing/tree/master/Car%20Sharing/task/src/carsharing)  
   _During the project implementation, you will learn the basics of SQL and work with the H2 database. You will also learn about advanced Java features such as Collections._
@@ -83,9 +83,12 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
   _Figure out multithreading and learn to work with Knuth-Morris-Pratt algorithm, a must-know for every developer. Consider Rabin-Karp algorithm the icing on the cake._
 - **JSON Database** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-JSONdatabase/tree/master/JSON%20Database/task/src)  
   _Get a firm grasp of working with JSON in Java. Also practice parallelization and see how to implement processing multiple requests at the same time._
-- **JSON-XML converter**(2/6) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_JSON-XMLconverter)
-- **Cinema Room Manager** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_CinemaRoomManager)
-- **Encryption-Decryption** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-Encryption-Decryption)
+- **JSON-XML converter**(2/6) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_JSON-XMLconverter/tree/master/JSON%20-%20XML%20converter/task/src/converter)  
+  _Get to know both formats (JSON and XML), gain more experience with collections and figure out object-oriented programming once and for all._
+- **Cinema Room Manager** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_CinemaRoomManager/tree/master/Cinema%20Room%20Manager/task/src/cinema)  
+  _This project is a good opportunity to work with input and output in Java. You will deal with arrays and functions as well as loops and conditional statements._
+- **Encryption-Decryption** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-Encryption-Decryption/tree/master/Encryption-Decryption/task/src/encryptdecrypt)  
+  _Gradually get familiar with Java, paying special attention to working with files and the command line._
 - **Number Base Converter** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-NumberBaseConverter)
 - **Simple Tic-Tac-Toe** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_SimpleTic-Tac-Toe)
 - **Tic-Tac-Toe with AI** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_Tic-Tac-ToeWithAI)
