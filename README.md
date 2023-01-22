@@ -106,15 +106,19 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 ## Kotlin
 
-- **Words Virtuoso**(5/6) - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso)
-- **Number Base Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_NumberBaseConverter)  
+- **Words Virtuoso**(5/6) - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso/tree/master/Words%20Virtuoso/task/src/wordsvirtuoso)  
+  _Work with strings, files, and collections. Learn how to use colors in console applications. These are the basic tools for creating an entertaining and good-looking programs._
+- **Number Base Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_NumberBaseConverter/tree/master/Number%20Base%20Converter/task/src/converter)  
   _Master loops and functions, learn about numeric data types, and explore different numeral systems including binary — one of the basic concepts in programming._
-- **Unit Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_UnitConverter)
-- **Cinema Room Manager** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CinemaRoomManager)
-- **Simple Tic-Tac-Toe** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_SimpleTic-Tac-Toe)  
+- **Unit Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_UnitConverter/tree/master/Unit%20Converter/task/src/converter)  
+  _Get comfortable with the basics of coding: loops, conditions, and data input and output._
+- **Cinema Room Manager** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CinemaRoomManager/tree/master/Cinema%20Room%20Manager/task/src/cinema)  
+  _This project is a good opportunity to work with input and output in Kotlin. You will deal with lists and functions as well as loops and conditional statements._
+- **Simple Tic-Tac-Toe** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_SimpleTic-Tac-Toe/tree/master/Simple%20Tic-Tac-Toe/task/src/tictactoe)  
   _Get to know a lot about planning and developing a complex program from scratch, using methods, nested lists, list comprehension, handling errors, and processing user input._
-- **Coffee Machine** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CoffeeMachine)
-- **Zookeeper** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-Zookeeper)  
+- **Coffee Machine** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin_CoffeeMachine/tree/master/Coffee%20Machine/task/src/machine)  
+  _better understand the basic OOP, its main concepts such as classes, class methods and attributes, and get a taste of Kotlin. Practice working with functions, challenge yourself with loops and conditions, and get more confident with OOP._
+- **Zookeeper** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-Zookeeper/tree/master/Zookeeper/task/src)  
   _understand some syntax basics and learn how to work with variables, data storage types such as arrays, and while loops._
 - **Simple Chat Bot** - _EASY_ - [Source Code](https://github.com/kronosGR/Kotlin-SimpleChattyBot)  
   _know the basic syntax of Kotlin and write a simple program using variables, conditions, loops, and functions._
