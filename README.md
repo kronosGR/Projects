@@ -72,14 +72,17 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 - **Contacts** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-Contacts/tree/master/Contacts/task/src/contacts)  
   _Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism. Inheritance will allow you to write code that can perform the same process but for different objects. Polymorphism helps to initiate different processes for different objects by using the same method. Also learn to prevent other users of your code to modify the variables using encapsulation._
 - **Readability Score** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-ReadabilityScore/tree/master/Readability%20Score/task/src/readability)  
-   _Learn to call programs from the command-line and get more experience with using regexes and Math class._  
-  _The project covers basic operations on integers, as well as with collections. Make a program that indicates the properties of the numbers taken from the input._
+   _Learn to call programs from the command-line and get more experience with using regexes and Math class._
 - **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers/tree/master/Amazing%20Numbers/task/src/numbers)
-- **Car Sharing** - _HARD_ - [SourceCode](https://github.com/kronosGR/JAVA-CarSharing)
-- **Coffee Machine** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_CoffeeMachine)
+  _The project covers basic operations on integers, as well as with collections. Make a program that indicates the properties of the numbers taken from the input._
+- **Car Sharing** - _HARD_ - [SourceCode](https://github.com/kronosGR/JAVA-CarSharing/tree/master/Car%20Sharing/task/src/carsharing)  
+  _During the project implementation, you will learn the basics of SQL and work with the H2 database. You will also learn about advanced Java features such as Collections._
+- **Coffee Machine** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_CoffeeMachine/tree/master/Coffee%20Machine/task/src/machine)  
+  _This project allows you to better understand the basic OOP, its main concepts such as classes, class methods and attributes, and get a taste of Java. Practice working with methods, challenge yourself with loops and conditions, and get more confident with OOP._
 - **File Type Analyzer**(4/5) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-FileTypeAnalyzer/tree/master/File%20Type%20Analyzer/task/src/analyzer)  
   _Figure out multithreading and learn to work with Knuth-Morris-Pratt algorithm, a must-know for every developer. Consider Rabin-Karp algorithm the icing on the cake._
-- **JSON Database** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-JSONdatabase)
+- **JSON Database** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-JSONdatabase/tree/master/JSON%20Database/task/src)  
+  _Get a firm grasp of working with JSON in Java. Also practice parallelization and see how to implement processing multiple requests at the same time._
 - **JSON-XML converter**(2/6) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_JSON-XMLconverter)
 - **Cinema Room Manager** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_CinemaRoomManager)
 - **Encryption-Decryption** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-Encryption-Decryption)
