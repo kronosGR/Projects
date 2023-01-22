@@ -73,7 +73,9 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 - **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers)
 - **Car Sharing** - _HARD_ - [SourceCode](https://github.com/kronosGR/JAVA-CarSharing)
 - **Coffee Machine** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_CoffeeMachine)
-- **File Type Analyzer**(2/5) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-FileTypeAnalyzer)
+- **File Type Analyzer**(4/5) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-FileTypeAnalyzer/tree/master/File%20Type%20Analyzer/task/src/analyzer)
+  Figure out multithreading and learn to work with Knuth-Morris-Pratt algorithm, a must-know for every developer. Consider Rabin-Karp algorithm the icing on the cake.
+
 - **JSON Database** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-JSONdatabase)
 - **JSON-XML converter**(2/6) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_JSON-XMLconverter)
 - **Cinema Room Manager** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_CinemaRoomManager)
