@@ -71,8 +71,10 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
   _Understand the process of developing such a complex program as a game and learn about processing user input and handling errors.._
 - **Contacts** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-Contacts/tree/master/Contacts/task/src/contacts)  
   _Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism. Inheritance will allow you to write code that can perform the same process but for different objects. Polymorphism helps to initiate different processes for different objects by using the same method. Also learn to prevent other users of your code to modify the variables using encapsulation._
-- **Readability Score** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-ReadabilityScore)
-- **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers)
+- **Readability Score** - _CHALLENGING_ - [SourceCode](https://github.com/kronosGR/Java-ReadabilityScore/tree/master/Readability%20Score/task/src/readability)  
+   _Learn to call programs from the command-line and get more experience with using regexes and Math class._  
+  _The project covers basic operations on integers, as well as with collections. Make a program that indicates the properties of the numbers taken from the input._
+- **Amazing Numbers**(5/8) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-Amazing_Numbers/tree/master/Amazing%20Numbers/task/src/numbers)
 - **Car Sharing** - _HARD_ - [SourceCode](https://github.com/kronosGR/JAVA-CarSharing)
 - **Coffee Machine** - _HARD_ - [SourceCode](https://github.com/kronosGR/Java_CoffeeMachine)
 - **File Type Analyzer**(4/5) - _HARD_ - [SourceCode](https://github.com/kronosGR/Java-FileTypeAnalyzer/tree/master/File%20Type%20Analyzer/task/src/analyzer)  
