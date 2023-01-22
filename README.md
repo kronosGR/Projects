@@ -89,10 +89,13 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
   _This project is a good opportunity to work with input and output in Java. You will deal with arrays and functions as well as loops and conditional statements._
 - **Encryption-Decryption** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-Encryption-Decryption/tree/master/Encryption-Decryption/task/src/encryptdecrypt)  
   _Gradually get familiar with Java, paying special attention to working with files and the command line._
-- **Number Base Converter** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-NumberBaseConverter)
-- **Simple Tic-Tac-Toe** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_SimpleTic-Tac-Toe)
-- **Tic-Tac-Toe with AI** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_Tic-Tac-ToeWithAI)
+- **Number Base Converter** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-NumberBaseConverter/tree/master/Number%20Base%20Converter/task/src/converter)  
+  _Master loops and functions, learn about numeric data types, and explore different numeral systems including binary — one of the basic concepts in programming._
+- **Tic-Tac-Toe with AI** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java_Tic-Tac-ToeWithAI/tree/master/Tic-Tac-Toe%20with%20AI/task/src/tictactoe)  
+  _Get to know a lot about planning and developing a complex program from scratch, using classes and methods, handling errors, and processing user input. Learn to use OOP (Object-Oriented Programming) in the process._
 - **SQLite Viewer** - _MEDIUM_ - [SourceCode](https://github.com/kronosGR/Java-SQLiteViewer)
+- **Simple Tic-Tac-Toe** - _Easy_ - [SourceCode](https://github.com/kronosGR/Java_SimpleTic-Tac-Toe/tree/master/Simple%20Tic-Tac-Toe/task/src/tictactoe)  
+  _Get to know a lot about planning and developing a complex program from scratch, using methods, nested lists, list comprehension, handling errors, and processing user input._
 - **Zookeeper** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java-Zookeeper)
 - **Simple Chatty Bot** - _EASY_ - [SourceCode](https://github.com/kronosGR/Java_SimpleChattyBot)
 
