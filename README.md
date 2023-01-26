@@ -89,7 +89,7 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
   _This project is a good opportunity to work with input and output in Java. You will deal with arrays and functions as well as loops and conditional statements._
 - **Encryption-Decryption** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Java-Encryption-Decryption/tree/master/Encryption-Decryption/task/src/encryptdecrypt)  
   _Gradually get familiar with Java, paying special attention to working with files and the command line._
-- **Music Advisor**(2/5) - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Java-MusicAdvisor/tree/master/Music%20Advisor/task/src/advisor)  
+- **Music Advisor** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Java-MusicAdvisor/tree/master/Music%20Advisor/task/src/advisor)  
   _Work with Spotify’s API, get acquainted with Java Generics and apply design patterns to make your code from good to superb._
 - **Number Base Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Java-NumberBaseConverter/tree/master/Number%20Base%20Converter/task/src/converter)  
   _Master loops and functions, learn about numeric data types, and explore different numeral systems including binary — one of the basic concepts in programming._
