@@ -67,12 +67,16 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 ## Java
 
+- **Blockchain**(2/5) - _CHALLENGING_ - [Source Code](https://github.com/kronosGR/Java-Blockchain/tree/master/Blockchain/task/out/production/classes/blockchain)  
+  _Get a profound understanding of how blockchains work, apply your hashing and multithreading skills and learn about (de)serialization: many great topics in one exciting project._
 - **Battleship**(4/5) - _CHALLENGING_ - [Source Code](https://github.com/kronosGR/Java-Battleship/tree/master/Battleship/task/src/battleship)  
   _Understand the process of developing such a complex program as a game and learn about processing user input and handling errors.._
 - **Contacts** - _CHALLENGING_ - [Source Code](https://github.com/kronosGR/Java-Contacts/tree/master/Contacts/task/src/contacts)  
   _Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism. Inheritance will allow you to write code that can perform the same process but for different objects. Polymorphism helps to initiate different processes for different objects by using the same method. Also learn to prevent other users of your code to modify the variables using encapsulation._
 - **Readability Score** - _CHALLENGING_ - [Source Code](https://github.com/kronosGR/Java-ReadabilityScore/tree/master/Readability%20Score/task/src/readability)  
    _Learn to call programs from the command-line and get more experience with using regexes and Math class._
+- **Cinema Room REST Service**(2/4) - _HARD_ - [Source Code](https://github.com/kronosGR/Java-CinemaRoomRESTService/tree/master/Cinema%20Room%20REST%20Service/task/src)  
+  _create a simple Spring REST service that will help you manage a small movie theatre. Handle HTTP requests in controllers, create services and respond with JSON objects._
 - **Amazing Numbers**(5/8) - _HARD_ - [Source Code](https://github.com/kronosGR/Java-Amazing_Numbers/tree/master/Amazing%20Numbers/task/src/numbers)  
   _The project covers basic operations on integers, as well as with collections. Make a program that indicates the properties of the numbers taken from the input._
 - **Car Sharing** - _HARD_ - [Source Code](https://github.com/kronosGR/JAVA-CarSharing/tree/master/Car%20Sharing/task/src/carsharing)  
