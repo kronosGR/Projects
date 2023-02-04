@@ -1,7 +1,6 @@
 _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
-Projects Menu : [Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)  
-Code Challenges Menu: [Java](#java-1)
+[Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
 
 # Projects - KronosGR
 
@@ -67,6 +66,8 @@ Code Challenges Menu: [Java](#java-1)
 [Top](#projects---kronosgr)
 
 ## Java
+
+![Java Summary](javatotal.png)
 
 - ### Challenging
 
@@ -175,7 +176,3 @@ Code Challenges Menu: [Java](#java-1)
 [Top](#projects---kronosgr)
 
 _\*Difficulty(Challenging | Hard | Medium | Easy)_
-
-# Code Challenges
-
-## Java
