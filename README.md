@@ -1,6 +1,6 @@
 _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
-Projects Menu : [Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
+Projects Menu : [Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)  
 Code Challenges Menu: [Java](#java-1)
 
 # Projects - KronosGR
