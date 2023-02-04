@@ -1,8 +1,9 @@
-# Projects - KronosGR
-
 _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
-[Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
+Projects Menu : [Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
+Code Challenges Menu: [Java](#java-1)
+
+# Projects - KronosGR
 
 ## Front-End
 
@@ -69,11 +70,11 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 - ### Challenging
 
-  - **Blockchain**(3/5) - [Source Code](https://github.com/kronosGR/Java-Blockchain/tree/master/Blockchain/task/out/production/classes/blockchain)  
+  - **Blockchain** - [Source Code](https://github.com/kronosGR/Java-Blockchain/tree/master/Blockchain/task/out/production/classes/blockchain)  
     _Get a profound understanding of how blockchains work, apply your hashing and multithreading skills and learn about (de)serialization: many great topics in one exciting project._
-  - **Battleship**(4/5) - [Source Code](https://github.com/kronosGR/Java-Battleship/tree/master/Battleship/task/src/battleship)  
+  - **Battleship** - [Source Code](https://github.com/kronosGR/Java-Battleship/tree/master/Battleship/task/src/battleship)  
     _Understand the process of developing such a complex program as a game and learn about processing user input and handling errors.._
-  - **Code Sharing Platform**(3/5) - [Source Code](https://github.com/kronosGR/Java-CodeSharingPlatform/tree/master/Code%20Sharing%20Platform/task/src)  
+  - **Code Sharing Platform** - [Source Code](https://github.com/kronosGR/Java-CodeSharingPlatform/tree/master/Code%20Sharing%20Platform/task/src)  
     _Get acquainted with server development on Spring Boot and touch on some basic topics in Web-programming such as HTML, CSS, and JS._
   - **Contacts** - [Source Code](https://github.com/kronosGR/Java-Contacts/tree/master/Contacts/task/src/contacts)  
     _Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism. Inheritance will allow you to write code that can perform the same process but for different objects. Polymorphism helps to initiate different processes for different objects by using the same method. Also learn to prevent other users of your code to modify the variables using encapsulation._
@@ -84,13 +85,13 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
   - **Cinema Room REST Service** - [Source Code](https://github.com/kronosGR/Java-CinemaRoomRESTService/tree/master/Cinema%20Room%20REST%20Service/task/src)  
     _create a simple Spring REST service that will help you manage a small movie theatre. Handle HTTP requests in controllers, create services and respond with JSON objects._
-  - **Amazing Numbers**(5/8) - [Source Code](https://github.com/kronosGR/Java-Amazing_Numbers/tree/master/Amazing%20Numbers/task/src/numbers)  
+  - **Amazing Numbers** - [Source Code](https://github.com/kronosGR/Java-Amazing_Numbers/tree/master/Amazing%20Numbers/task/src/numbers)  
     _The project covers basic operations on integers, as well as with collections. Make a program that indicates the properties of the numbers taken from the input._
   - **Car Sharing** - [Source Code](https://github.com/kronosGR/JAVA-CarSharing/tree/master/Car%20Sharing/task/src/carsharing)  
     _During the project implementation, you will learn the basics of SQL and work with the H2 database. You will also learn about advanced Java features such as Collections._
   - **Coffee Machine** - [Source Code](https://github.com/kronosGR/Java_CoffeeMachine/tree/master/Coffee%20Machine/task/src/machine)  
     _This project allows you to better understand the basic OOP, its main concepts such as classes, class methods and attributes, and get a taste of Java. Practice working with methods, challenge yourself with loops and conditions, and get more confident with OOP._
-  - **File Type Analyzer**(4/5) - [Source Code](https://github.com/kronosGR/Java-FileTypeAnalyzer/tree/master/File%20Type%20Analyzer/task/src/analyzer)  
+  - **File Type Analyzer** - [Source Code](https://github.com/kronosGR/Java-FileTypeAnalyzer/tree/master/File%20Type%20Analyzer/task/src/analyzer)  
     _Figure out multithreading and learn to work with Knuth-Morris-Pratt algorithm, a must-know for every developer. Consider Rabin-Karp algorithm the icing on the cake._
   - **JSON Database** - [Source Code](https://github.com/kronosGR/Java-JSONdatabase/tree/master/JSON%20Database/task/src)  
     _Get a firm grasp of working with JSON in Java. Also practice parallelization and see how to implement processing multiple requests at the same time._
@@ -124,7 +125,7 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 ## Kotlin
 
-- **Words Virtuoso**(5/6) - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso/tree/master/Words%20Virtuoso/task/src/wordsvirtuoso)  
+- **Words Virtuoso** - _HARD_ - [Source Code](https://github.com/kronosGR/Kotlin_WordsVirtuoso/tree/master/Words%20Virtuoso/task/src/wordsvirtuoso)  
   _Work with strings, files, and collections. Learn how to use colors in console applications. These are the basic tools for creating an entertaining and good-looking programs._
 - **Number Base Converter** - _MEDIUM_ - [Source Code](https://github.com/kronosGR/Kotlin_NumberBaseConverter/tree/master/Number%20Base%20Converter/task/src/converter)  
   _Master loops and functions, learn about numeric data types, and explore different numeral systems including binary — one of the basic concepts in programming._
@@ -173,5 +174,8 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 [Top](#projects---kronosgr)
 
-_\*(current stage/Total Stages)_
-_\*\*Difficulty(Challenging | Hard | Medium | Easy)_
+_\*Difficulty(Challenging | Hard | Medium | Easy)_
+
+# Code Challenges
+
+## Java
