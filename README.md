@@ -67,7 +67,7 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 ## Java
 
-![Java Summary](javatotal.png)
+![Java Summary](javatotal1.png)
 
 - ### Challenging
 
