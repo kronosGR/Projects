@@ -71,6 +71,8 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 - ### Challenging
 
+  - **Account Service** - [Source Code](https://github.com/kronosGR/Java-AccountService/tree/master/Account%20Service/task/src)  
+    _Master the Spring Security module, learn the basics of user authentication and authorization, know how to register security events, and get acquainted with various requirements, such as modern information security standards for web applications._
   - **Blockchain** - [Source Code](https://github.com/kronosGR/Java-Blockchain/tree/master/Blockchain/task/out/production/classes/blockchain)  
     _Get a profound understanding of how blockchains work, apply your hashing and multithreading skills and learn about (de)serialization: many great topics in one exciting project._
   - **Battleship** - [Source Code](https://github.com/kronosGR/Java-Battleship/tree/master/Battleship/task/src/battleship)  
@@ -81,6 +83,8 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
     _Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism. Inheritance will allow you to write code that can perform the same process but for different objects. Polymorphism helps to initiate different processes for different objects by using the same method. Also learn to prevent other users of your code to modify the variables using encapsulation._
   - **Readability Score** - [Source Code](https://github.com/kronosGR/Java-ReadabilityScore/tree/master/Readability%20Score/task/src/readability)  
     _Learn to call programs from the command-line and get more experience with using regexes and Math class._
+  - **Recipes** - [Source Code](hhttps://github.com/kronosGR/Java-Recipes/tree/master/Recipes/task/src)  
+    _Get to know the backend development. Use Spring Boot to complete this project. Learn about JSON, REST API, Spring Boot Security, H2 database, LocalDateTime, Project Lombok, and other concepts useful for the backend._
 
 - ### Hard
 
