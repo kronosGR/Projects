@@ -1,6 +1,4 @@
-_LEARNING: JAVA and Back-End with Node.js and Spring Boot_
-
-[Front-End](#front-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
+[Front-End](#front-end) | [Back-End](#back-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
 
 # Projects - KronosGR
 
@@ -65,9 +63,24 @@ _LEARNING: JAVA and Back-End with Node.js and Spring Boot_
 
 [Top](#projects---kronosgr)
 
+## Back-end
+
+### Java
+
+- **Account Service** - [Source Code](https://github.com/kronosGR/Java-AccountService/tree/master/Account%20Service/task/src)  
+  _Master the Spring Security module, learn the basics of user authentication and authorization, know how to register security events, and get acquainted with various requirements, such as modern information security standards for web applications._
+- **Code Sharing Platform** - [Source Code](https://github.com/kronosGR/Java-CodeSharingPlatform/tree/master/Code%20Sharing%20Platform/task/src)  
+  _Get acquainted with server development on Spring Boot and touch on some basic topics in Web-programming such as HTML, CSS, and JS._
+- **Recipes** - [Source Code](hhttps://github.com/kronosGR/Java-Recipes/tree/master/Recipes/task/src)  
+  _Get to know the backend development. Use Spring Boot to complete this project. Learn about JSON, REST API, Spring Boot Security, H2 database, LocalDateTime, Project Lombok, and other concepts useful for the backend._
+- **Cinema Room REST Service** - [Source Code](https://github.com/kronosGR/Java-CinemaRoomRESTService/tree/master/Cinema%20Room%20REST%20Service/task/src)  
+   _create a simple Spring REST service that will help you manage a small movie theatre. Handle HTTP requests in controllers, create services and respond with JSON objects._
+
+[Top](#projects---kronosgr)
+
 ## Java
 
-![Java Summary](javatotal1.png)
+![Java Summary](javatotal.png)
 
 - ### Challenging
 
