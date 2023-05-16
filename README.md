@@ -4,13 +4,13 @@
 
 ## Fullstack
 -  **Notez**(in progress) - [Source Code](https://github.com/kronosGR/KandZ-Notez)
-  - Typescript
-  - React.js
-  - Rx.js
-  - BootStrap
-  - Node.js
-  - Express.js
-  - MongoDb
+    - Typescript
+    - React.js
+    - Rx.js
+    - BootStrap
+    - Node.js
+    - Express.js
+    - MongoDb
 
 ## Front-End
 
