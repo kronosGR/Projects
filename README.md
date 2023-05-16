@@ -1,6 +1,16 @@
-[Front-End](#front-end) | [Back-End](#back-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
+[Fullstack](#fullstack) | [Front-End](#front-end) | [Back-End](#back-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
 
 # Projects - KronosGR
+
+## Fullstack
+-  **Notez**(in progress) - [Source Code](https://github.com/kronosGR/KandZ-Notez)
+  - Typescript
+  - React.js
+  - Rx.js
+  - BootStrap
+  - Node.js
+  - Express.js
+  - MongoDb
 
 ## Front-End
 
