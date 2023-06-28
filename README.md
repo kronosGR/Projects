@@ -3,16 +3,22 @@
 # Projects - KronosGR
 
 ## Fullstack
--  **Notez**(in progress) - [Source Code](https://github.com/kronosGR/KandZ-Notez)
-    - Typescript
-    - React.js
-    - Rx.js
-    - BootStrap
-    - Node.js
-    - Express.js
-    - MongoDb
+
+- **Notez**(in progress) - [Source Code](https://github.com/kronosGR/KandZ-Notez)
+  - Typescript
+  - React.js
+  - Rx.js
+  - BootStrap
+  - Node.js
+  - Express.js
+  - MongoDb
 
 ## Front-End
+
+- **Chrono Calculator** [Web](https://chronocalculator.kandz.me/) - [Google Play Store](https://play.google.com/store/apps/details?id=me.kandz.chronocalculator)
+
+  - Ionic
+  - React.js
 
 - **Holidaze** - [Source Code](https://github.com/kronosGR/ca-portfolio-react)
 
