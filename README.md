@@ -15,6 +15,11 @@
 
 ## Front-End
 
+- **Wind Converter** [Web](https://windconverter.kandz.me/) - [Google Play Store](https://play.google.com/store/apps/details?id=windconverter.kandz.me)
+
+  - Ionic
+  - React.js
+
 - **Chrono Calculator** [Web](https://chronocalculator.kandz.me/) - [Google Play Store](https://play.google.com/store/apps/details?id=me.kandz.chronocalculator)
 
   - Ionic
