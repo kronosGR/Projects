@@ -15,6 +15,11 @@
 
 ## Front-End
 
+- **Weather** [Web](https://weather.kandz.me/) - [Google Play Store](https://play.google.com/store/apps/details?id=net.kandz.weather)
+
+  - Ionic
+  - React.js
+
 - **Wind Converter** [Web](https://windconverter.kandz.me/) - [Google Play Store](https://play.google.com/store/apps/details?id=windconverter.kandz.me)
 
   - Ionic
