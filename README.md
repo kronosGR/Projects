@@ -90,17 +90,27 @@
 [Top](#projects---kronosgr)
 
 ## Back-end
+
 ### Node.js
-- **Meme Central** - [Source Code]([Meme Central](https://github.com/kronosGR/Georgios_Katsanakis_JAN23FT_JSS)
-    -Node.js
-    -Express.js
-    -Passport (for authentication)
-    -Passport-local (for local strategy)
-    -EJS template engine
-    -Express-Session (session middleware)
-    -Express-Session-JSON (JSON file session storage)
-    -JQuery
-  
+
+- **Meme Central** - [Source Code](https://github.com/kronosGR/Georgios_Katsanakis_JAN23FT_JSS)
+
+  -Node.js
+
+  -Express.js
+
+  -Passport (for authentication)
+
+  -Passport-local (for local strategy)
+
+  -EJS template engine
+
+  -Express-Session (session middleware)
+
+  -Express-Session-JSON (JSON file session storage)
+
+  -JQuery
+
 ### Java
 
 - **Account Service** - [Source Code](https://github.com/kronosGR/Java-AccountService/tree/master/Account%20Service/task/src)  
