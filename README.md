@@ -92,14 +92,14 @@
 ## Back-end
 ### Node.js
 - **Meme Central** - [Source Code]([Meme Central](https://github.com/kronosGR/Georgios_Katsanakis_JAN23FT_JSS)
-    *Node.js
-    *Express.js
-    *Passport (for authentication)
-    *Passport-local (for local strategy)
-    *EJS template engine
-    *Express-Session (session middleware)
-    *Express-Session-JSON (JSON file session storage)
-    *JQuery
+    -Node.js
+    -Express.js
+    -Passport (for authentication)
+    -Passport-local (for local strategy)
+    -EJS template engine
+    -Express-Session (session middleware)
+    -Express-Session-JSON (JSON file session storage)
+    -JQuery
   
 ### Java
 
