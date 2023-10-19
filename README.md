@@ -93,23 +93,24 @@
 
 ### Node.js
 
+- **Animal Adoption** - [Source Code] (https://github.com/kronosGR/Node.js-Mysql-example)
+
+  - Node.js
+  - Express.js
+  - Sequelize
+  - MySQL
+  - EJS template engine
+  - JQuery
+
 - **Meme Central** - [Source Code](https://github.com/kronosGR/Georgios_Katsanakis_JAN23FT_JSS)
-
-  -Node.js
-
-  -Express.js
-
-  -Passport (for authentication)
-
-  -Passport-local (for local strategy)
-
-  -EJS template engine
-
-  -Express-Session (session middleware)
-
-  -Express-Session-JSON (JSON file session storage)
-
-  -JQuery
+  - Node.js
+  - Express.js
+  - Passport (for authentication)
+  - Passport-local (for local strategy)
+  - EJS template engine
+  - Express-Session (session middleware)
+  - Express-Session-JSON (JSON file session storage)
+  - JQuery
 
 ### Java
 
