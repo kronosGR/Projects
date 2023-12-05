@@ -93,6 +93,14 @@
 
 ### Node.js
 
+- **Back-end with Rest API** [Source Code](https://github.com/kronosGR/jan23ft-api-ca-kronosGR)
+
+  - JWT
+  - Sequelize
+  - MySQL
+  - Swagger
+  - jest/supertest
+
 - **Animal Adoption** - [Source Code](https://github.com/kronosGR/Node.js-Mysql-example)
 
   - Node.js
