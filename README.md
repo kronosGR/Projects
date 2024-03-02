@@ -4,6 +4,34 @@
 
 ## Fullstack
 
+- **eStore** Admin Panel and Rest API - [Source Code](https://github.com/kronosGR/Nodejs-estore) - [Web](http://estore.kronosgr.net/)
+
+  - Node.js
+  - bcrypt
+  - bootstrap
+  - cookie-parser
+  - ejs
+  - express
+  - express-session
+  - http-errors
+  - jest
+  - jquery
+  - jsend
+  - jsonwebtoken
+  - mysql
+  - mysql2
+  - sequelize
+  - supertest
+  - supertext
+  - swagger-autogen
+  - swagger-ui-express
+
+```
+Username: Admin
+Password: P@ssword2023
+Email: admin@noroff.no
+```
+
 - **Notez**(in progress) - [Source Code](https://github.com/kronosGR/KandZ-Notez)
   - Typescript
   - React.js
