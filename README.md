@@ -6,6 +6,7 @@
 
 - **Chronos** Simple stopwatch and timer - [Source Code](https://github.com/kronosGR/kandz-chronos) - [snap, deb, AppImage, exe files](https://github.com/kronosGR/kandz-chronos/releases)
   - React.js
+  - Electron
 
 ## Fullstack
 
