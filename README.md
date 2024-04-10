@@ -1,6 +1,10 @@
-[Fullstack](#fullstack) | [Front-End](#front-end) | [Back-End](#back-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
+[Electron](#electron) | [Fullstack](#fullstack) | [Front-End](#front-end) | [Back-End](#back-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
 
 # Projects - KronosGR
+
+## Electron
+
+- **Chronos** Simple stopwatch and timer - [Source Code](https://github.com/kronosGR/kandz-chronos) - [snap, deb, AppImage, exe files](https://github.com/kronosGR/kandz-chronos/releases)
 
 ## Fullstack
 
