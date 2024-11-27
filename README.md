@@ -10,6 +10,17 @@
 
 ## Fullstack
 
+- **Simple Product Management** A simple web application with Microservices - [Source Code](https://github.com/kronosGR/jan24ft-sp2-kronosGR)
+
+  - Node.js
+  - Express.js
+  - ejs
+  - Microservices
+  - SQL Server
+  - DataWarehouse
+  - Azure
+  - PowerBI
+
 - **eStore** Admin Panel and Rest API - [Source Code](https://github.com/kronosGR/Nodejs-estore) - [Web](http://estore.kronosgr.net/)
 
   - Node.js
@@ -124,6 +135,16 @@ Email: admin@noroff.no
 [Top](#projects---kronosgr)
 
 ## Back-end
+
+### ASP.NET
+
+- **Developement House API** - Manage a development company - [Source Code](https://github.com/kronosGR/jan24ft-bet-ca-kronosGR)
+  - ASP.NET Web API
+  - Entity Framework
+  - MySql
+  - Authentication
+  - Authorization
+  - JWT
 
 ### Node.js
 
