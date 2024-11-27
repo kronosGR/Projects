@@ -52,6 +52,8 @@ Email: admin@noroff.no
   - Express.js
   - MongoDb
 
+[Top](#projects---kronosgr)
+
 ## Front-End
 
 - **Weather** [Web](https://weather.kandz.me/) - [Google Play Store](https://play.google.com/store/apps/details?id=net.kandz.weather)
@@ -168,6 +170,8 @@ Email: admin@noroff.no
   - Express-Session (session middleware)
   - Express-Session-JSON (JSON file session storage)
   - JQuery
+
+[Top](#projects---kronosgr)
 
 ### Java
 
@@ -303,6 +307,6 @@ Email: admin@noroff.no
   - React.js
   - Electron
 
-  [Top](#projects---kronosgr)
+[Top](#projects---kronosgr)
 
 _\*Difficulty(Challenging | Hard | Medium | Easy)_
