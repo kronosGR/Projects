@@ -1,12 +1,6 @@
-[Electron](#electron) | [Fullstack](#fullstack) | [Front-End](#front-end) | [Back-End](#back-end) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java)
+[Fullstack](#fullstack) | [Front-End](#front-end) | [Back-End](#back-end)(ASP.NET & Node.js) | [Java](#java) | [Kotlin](#kotlin) | [C++](#c) | [Android with Java](#android-with-java) | [Electron](#electron)
 
 # Projects - KronosGR
-
-## Electron
-
-- **Chronos** Simple stopwatch and timer - [Source Code](https://github.com/kronosGR/kandz-chronos) - [snap, deb, AppImage, exe files](https://github.com/kronosGR/kandz-chronos/releases)
-  - React.js
-  - Electron
 
 ## Fullstack
 
@@ -301,5 +295,14 @@ Email: admin@noroff.no
   Log every event happens around you. You can add text, image and audio
 
 [Top](#projects---kronosgr)
+
+## Electron
+
+- **Chronos** Simple stopwatch and timer - [Source Code](https://github.com/kronosGR/kandz-chronos) - [snap, deb, AppImage, exe files](https://github.com/kronosGR/kandz-chronos/releases)
+
+  - React.js
+  - Electron
+
+  [Top](#projects---kronosgr)
 
 _\*Difficulty(Challenging | Hard | Medium | Easy)_
