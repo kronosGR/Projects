@@ -305,12 +305,12 @@ Email: admin@noroff.no
 - **Gollama**
   An GUI application for Ollama. The user can manage models, have multiple conversations with different model. Also to copy/paste parts of the conversations. - [Source Code](https://github.com/kronosGR/KanZ-Gollama)
 
-Work under progress
+  Work under progress
 
-- Electron.js
-- React.js
-- TypeScript
-- Tailwind CSS
+  - Electron.js
+  - React.js
+  - TypeScript
+  - Tailwind CSS
 
 - **Chronos** Simple stopwatch and timer - [Source Code](https://github.com/kronosGR/kandz-chronos) - [snap, deb, AppImage, exe files](https://github.com/kronosGR/kandz-chronos/releases)
 
